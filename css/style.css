@@ -98,9 +98,14 @@ h2 {
 
 }
 
-.img-responsive {
+.img-responsive{
   width: 100%;
+
 }
+.row-icons {
+  text-align: center;
+}
+
 
 
 .work h3 {
@@ -116,6 +121,7 @@ h2 {
   background: #4aaaa5;
   border-bottom: 0;
 }
+
 
 .auth-image {
   float: left;
